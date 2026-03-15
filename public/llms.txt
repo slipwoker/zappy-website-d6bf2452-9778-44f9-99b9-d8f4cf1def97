@@ -1,48 +1,35 @@
-# אודליה אופל מאמנת השפעה ומכירות — Generative Engine Optimization Map
-
-> אפשר לבנות את הדף בעברית?
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-d6bf2452.zappy5.app
+https://example.com
 גלי איך להגדיל מכירות לעסק קטן עם קורס מכירות למקצוענים מתקדמים. אודליה אופל מעניקה כלים מעשיים למיומנויות השפעה ושכנוע במכירות שמניבות תוצאות מיידיות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d6bf2452.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d6bf2452.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d6bf2452.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About אודליה אופל מאמנת השפעה ומכירות
-אפשר לבנות את הדף בעברית?
-
-## Target Audience
-- מנהלי מכירות בעלי השפעה
-- מקצועני מכירות מתקדמים
-- יזמים בשלב הצמיחה
-- מנהלי הכשרה ארגוניים
-
-## Industry
-General
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-d6bf2452.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-d6bf2452.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
